@@ -2,7 +2,7 @@
 The challenge asks me to invoke a command with arguments.
 
 ## My solve
-**Flag:** `pwn.college{UpwmzhbFRrYfsBqB0Yk6ymePOTI.QX4YjM1wiN4AzNzEzW}
+**Flag:** `pwn.college{UpwmzhbFRrYfsBqB0Yk6ymePOTI.QX4YjM1wiN4AzNzEzW}`
 
 In the command line I inputted the command hello with the argument hackers and this gave me my flag.
 
