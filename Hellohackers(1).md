@@ -10,7 +10,7 @@ Success! Here is your flag:
 pwn.college{g0Nt0hkMQedOZ-tBN2Ed7YcS1xc.QX3YjM1wiN4AzNzEzW}
 
 ## What I learned
-I learnt how to invoke commands
+I learnt how to invoke commands.
 
 ## References 
-I used the video on pwn.college as my reference
+I used the video on pwn.college as my reference.
