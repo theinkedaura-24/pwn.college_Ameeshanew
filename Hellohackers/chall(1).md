@@ -2,7 +2,7 @@
 This challenge aks me to invoke the hello command to get the flag.
 
 ## My solve
-Flag: pwn.college{g0Nt0hkMQedOZ-tBN2Ed7YcS1xc.QX3YjM1wiN4AzNzEzW}
+Flag: `pwn.college{g0Nt0hkMQedOZ-tBN2Ed7YcS1xc.QX3YjM1wiN4AzNzEzW}`
 
 I wrote hello and got my flag :
 hacker@hello~intro-to-commands:~$ hello
