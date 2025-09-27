@@ -12,8 +12,8 @@ hacker@commands~cat-not-the-pet-but-the-command:~$ cat /flag
 pwn.college{kvH9e1s-VpaTqJTSuxptpXflwVs.QXxcTN0wiN4AzNzEzW}
 ```
 
-**## What I learned**
+## What I learned
 cat is a simple and powerful command for reading file contents. It prints the full contents of files to standard output and can concatenate multiple files if given multiple arguments.
 
-**## References**
+## References
 Videos and documents available on pwn.college 
