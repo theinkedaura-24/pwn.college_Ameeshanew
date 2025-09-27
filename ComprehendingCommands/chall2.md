@@ -4,7 +4,8 @@ Read the flag file made readable at the absolute path /flag using the cat comman
 ## My solve
 **Flag:** `pwn.college{MYpzZyNsIiKnOjVeWhl7vC4M96B.QX5ETO0wiN4AzNzEzW}`
 I followed the challenge instructions which state that the flag file will be made readable at the absolute path /flag. Since cat accepts absolute paths, the simplest way to read the file is to run cat /flag.
-```	hacker@commands~catting-absolute-paths:~$ cat /flag
+```
+hacker@commands~catting-absolute-paths:~$ cat /flag
 pwn.college{MYpzZyNsIiKnOjVeWhl7vC4M96B.QX5ETO0wiN4AzNzEzW}
 ```
 
