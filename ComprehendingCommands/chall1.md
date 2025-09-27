@@ -1,5 +1,5 @@
-# cat:not the pet,but the command
-type what the challenge asks
+# cat:not the pet, but the command
+Read the flag file in the home directory using the cat command.
 
 ## My solve
 **Flag**: pwn.college{kvH9e1s-VpaTqJTSuxptpXflwVs.QXxcTN0wiN4AzNzEzW}
