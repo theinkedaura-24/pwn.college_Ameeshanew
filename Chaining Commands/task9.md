@@ -5,9 +5,8 @@ If the condition is true, it will output "college"; otherwise, it should produce
 
 ## My solve
 **Flag:** `pwn.college{cw7Y7EakN89O8CJL-4lrsgmQkQJ.0lNzMDOxwiN4AzNzEzW}`
-```
 
-type in your solve and your thought process behind solving the challenge. Include as much as info as possible.. Use triple ticks for bash.
+
 ```hacker@chaining~scripting-with-conditionals:~$ echo -e '#!/bin/bash\nif [ "$1" == "pwn" ]; then\n\techo "college"\nfi' > /home/hacker/solve.sh
 hacker@chaining~scripting-with-conditionals:~$ chmod +x /home/hacker/solve.sh
 hacker@chaining~scripting-with-conditionals:~$ /challenge/run
