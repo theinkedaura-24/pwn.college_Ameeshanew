@@ -1,6 +1,6 @@
-# Cracking 
+# Cracking passwords
 In this challenge, a password file has been leaked and is located at /challenge/shadow-leak. Our job is to use the John the Ripper tool to crack the password for the zardus user from this file. 
-After finding the password, I'll su to zardus and run /challenge/run to capture the flag.
+After finding the password, we'll su to zardus and run /challenge/run to capture the flag.
 
 ## My solve
 **Flag:** `pwn.college{weAI58O01yq9Q_x1Ja-vHLqKyNq.QX3UDN1wiN4AzNzEzW}`
