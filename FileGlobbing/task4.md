@@ -4,7 +4,8 @@ This challenge asks us to use a bracket glob [] as part of a full absolute path 
 ## My solve
 **Flag:** `pwn.college{o63Nv5Awn-cs4DYp0-0tMdXg9t8.QX0IDO0wiN4AzNzEzW}}`
 
-```hacker@globbing~matching-paths-with-:~$ /challenge/run /challenge/files/file_[bash]
+```
+hacker@globbing~matching-paths-with-:~$/challenge/run /challenge/files/file_[bash]
 You got it! Here is your flag!
 pwn.college{o63Nv5Awn-cs4DYp0-0tMdXg9t8.QX0IDO0wiN4AzNzEzW}
 
