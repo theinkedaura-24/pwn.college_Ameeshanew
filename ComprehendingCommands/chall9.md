@@ -5,7 +5,8 @@ This challenge wants us to move the /flag file into /tmp/hack-the-planet! When w
 **Flag:** `pwn.college{gexJNC-2vuuijxXxE6kHMlRGX1a.0VOxEzNxwiN4AzNzEzW}`
 
 
-```hacker@commands~moving-files:~$ mv /flag /tmp/hack-the-planet
+```
+hacker@commands~moving-files:~$ mv /flag /tmp/hack-the-planet
 Correct! Performing 'mv /flag /tmp/hack-the-planet'.
 hacker@commands~moving-files:~$ /challenge/check
 Congrats! You successfully moved the flag to /tmp/hack-the-planet! Here it is:
