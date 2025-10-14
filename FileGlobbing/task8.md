@@ -4,7 +4,8 @@ This challenge requires us to read a file whose name cannot be typed manually, f
 ## My solve
 **Flag:** `pwn.college{gZEFToBU5WZc-aBFjOcH-Z24tlo.0FN0EzNxwiN4AzNzEzW}`
 
-```hacker@globbing~tab-completion:~$ cat /challenge/pwncollege 
+```
+hacker@globbing~tab-completion:~$ cat /challenge/pwncollege 
 pwn.college{gZEFToBU5WZc-aBFjOcH-Z24tlo.0FN0EzNxwiN4AzNzEzW}
 ```
 
