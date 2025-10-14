@@ -6,7 +6,8 @@ I need to use this command to add read permission to /flag for my user, which wi
 ## My solve
 **Flag:** `pwn.college{sT60zx8_UZsdU9FK3nn0ADjju5I.QXzcjM1wiN4AzNzEzW}`
 
-```hacker@permissions~changing-permissions:~$ chmod o+r /flag
+```
+hacker@permissions~changing-permissions:~$chmod o+r /flag
 cat /flag
 pwn.college{sT60zx8_UZsdU9FK3nn0ADjju5I.QXzcjM1wiN4AzNzEzW}
 
