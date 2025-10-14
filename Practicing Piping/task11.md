@@ -4,7 +4,8 @@ This challenge asks us to use process substitution (<(...)) to directly compare 
 ## My solve
 **Flag:** `pwn.college{sDXWnYKquf5ct9PfMZIytiYhrip.0lNwMDOxwiN4AzNzEzW}`
 
-```hacker@piping~process-substitution-for-input:~$ diff <(/challenge/print_decoys) <(/challenge/print_decoys_and_flag)
+```
+hacker@piping~process-substitution-for-input:~$ diff <(/challenge/print_decoys) <(/challenge/print_decoys_and_flag)
 83a84
 > pwn.college{sDXWnYKquf5ct9PfMZIytiYhrip.0lNwMDOxwiN4AzNzEzW}
 
