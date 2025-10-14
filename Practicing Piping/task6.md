@@ -5,7 +5,8 @@ This challenge asks us to combine two skills: first, redirect a program's massiv
 **Flag:** `pwn.college{Imk_k4W4Cz8j5iZbtEibrvRyjDT.QX4EDO0wiN4AzNzEzW}`
 
 
-```6.	hacker@piping~grepping-stored-results:~$ /challenge/run > /tmp/data.txt
+```
+hacker@piping~grepping-stored-results:~$ /challenge/run > /tmp/data.txt
 [INFO] WELCOME! This challenge makes the following asks of you:
 [INFO] - the challenge will check that output is redirected to a specific file path : /tmp/data.txt
 [INFO] - the challenge will output a reward file if all the tests pass : /challenge/.data.txt
