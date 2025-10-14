@@ -4,8 +4,11 @@ This challenge asks us to use ([!...]) to create a pattern that matches all file
 ## My solve
 **Flag:** `pwn.college{wuK-3D8oRx8lNujpsEuxuPYSZp8.QX2IDO0wiN4AzNzEzW}`
 
-```hacker@globbing~tab-completion:~$ cat /challenge/pwncollege 
-pwn.college{gZEFToBU5WZc-aBFjOcH-Z24tlo.0FN0EzNxwiN4AzNzEzW}
+```
+hacker@globbing~exclusionary-globbing:~$ cd /challenge/files
+hacker@globbing~exclusionary-globbing:/challenge/files$ /challenge/run [^pwn]*
+You got it! Here is your flag!
+pwn.college{wuK-3D8oRx8lNujpsEuxuPYSZp8.QX2IDO0wiN4AzNzEzW}
 ```
 
 ## What I learned
