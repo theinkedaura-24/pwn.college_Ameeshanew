@@ -5,7 +5,8 @@ Since I am a member of the hacker group, this will give me the permission requir
 
 ## My solve
 **Flag:** `pwn.college{0MrIiLiE-CyrA9vaEzO_tXlyf6u.QXxcjM1wiN4AzNzEzW}`
-```hacker@permissions~groups-and-files:~$ cat /flag
+```
+hacker@permissions~groups-and-files:~$ cat /flag
 pwn.college{0MrIiLiE-CyrA9vaEzO_tXlyf6u.QXxcjM1wiN4AzNzEzW}
 
 ```
