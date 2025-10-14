@@ -4,7 +4,8 @@ This challenge asks us to navigate to the /challenge directory using a path with
 ## My solve
 **Flag:** `pwn.college{8Hvnb_VL6dthrJUzardMX1Wyx0n.QXxIDO0wiN4AzNzEzW}`
 
-```hacker@globbing~matching-with-:~$ cd /ch*
+```
+hacker@globbing~matching-with-:~$ cd /ch*
 hacker@globbing~matching-with-:/challenge$ /challenge/run
 You ran me with the working directory of /challenge! Here is your flag:
 pwn.college{8Hvnb_VL6dthrJUzardMX1Wyx0n.QXxIDO0wiN4AzNzEzW}
