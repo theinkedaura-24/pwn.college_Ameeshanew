@@ -5,7 +5,8 @@ In this challenge we practice reading a program's documentation with --help.
 **Flag:** `pwn.college{M0WTLI4NWKjDQWvl_1sy9iAXGey.QX3IDO0wiN4AzNzEzW}`
 
 
-```hacker@man~helpful-programs:~$ /challenge/challenge --help
+```
+hacker@man~helpful-programs:~$ /challenge/challenge --help
 usage: a challenge to make you ask for help [-h] [--fortune] [-v] [-g GIVE_THE_FLAG] [-p]
 
 optional arguments:
