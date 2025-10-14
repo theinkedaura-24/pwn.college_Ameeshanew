@@ -4,7 +4,8 @@ This challenge asks us to send a program's standard output and standard error to
 ## My solve
 **Flag:** `pwn.college{YcqjlfRVpuzXdMYs2UJO0jT3jd-.QXxQDM2wiN4AzNzEzW}`
 
-```hacker@piping~split-piping-stderr-and-stdout:~$ /challenge/hack 2> >(/challenge/the) | /challenge/planet
+```
+hacker@piping~split-piping-stderr-and-stdout:~$ /challenge/hack 2> >(/challenge/the) | /challenge/planet
 Congratulations, you have learned a redirection technique that even experts 
 struggle with! Here is your flag:
 pwn.college{YcqjlfRVpuzXdMYs2UJO0jT3jd-.QXxQDM2wiN4AzNzEzW}
