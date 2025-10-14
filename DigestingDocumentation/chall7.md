@@ -5,7 +5,8 @@ This challenge's challenge command is a shell builtin, rather than a program. We
 **Flag:** `pwn.college{os1xmmVze-h6BQJSgrJVwEL0arB.QX0ETO0wiN4AzNzEzW}`
 
 
-```hacker@man~help-for-builtins:~$ help challenge
+```
+hacker@man~help-for-builtins:~$ help challenge
 challenge: challenge [--fortune] [--version] [--secret SECRET]
     This builtin command will read you the flag, given the right arguments!
     
