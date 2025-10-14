@@ -5,7 +5,8 @@ This challenge asks us to remove a file using the rm command.
 **Flag:** `pwn.college{0D4h_V64D6AeaGZZot2BxZxCq3K.QX2kDM1wiN4AzNzEzW}`
 
 
-```hacker@commands~moving-files:~$ mv /flag /tmp/hack-the-planet
+```
+hacker@commands~moving-files:~$ mv /flag /tmp/hack-the-planet
 Correct! Performing 'mv /flag /tmp/hack-the-planet'.
 hacker@commands~moving-files:~$ /challenge/check
 Congrats! You successfully moved the flag to /tmp/hack-the-planet! Here it is:
