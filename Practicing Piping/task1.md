@@ -4,7 +4,8 @@ This challenge asks you to use the output redirection operator (>) to save the w
 ## My solve
 **Flag:** `pwn.college{wyKYj40zupulLyBNfO3viVjToaS.QX0YTN0wiN4AzNzEzW}`
 
-```hacker@piping~redirecting-output:~$ echo PWN > COLLEGE
+```
+hacker@piping~redirecting-output:~$ echo PWN > COLLEGE
 Correct! You successfully redirected 'PWN' to the file 'COLLEGE'! Here is your 
 flag:
 pwn.college{wyKYj40zupulLyBNfO3viVjToaS.QX0YTN0wiN4AzNzEzW}
