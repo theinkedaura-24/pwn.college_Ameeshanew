@@ -5,7 +5,8 @@ This challenge tells us to print arbitrary files to the terminal when given the 
 **Flag:** `pwn.college{Uc4tXioiqpgpWhvHVpgIPtPzsq-.QX1ITO0wiN4AzNzEzW}`
 
 
-```hacker@man~learning-complex-usage:~$ /challenge/challenge --printfile /flag
+```
+hacker@man~learning-complex-usage:~$ /challenge/challenge --printfile /flag
 Correct argument! Here is the /flag file:
 pwn.college{Uc4tXioiqpgpWhvHVpgIPtPzsq-.QX1ITO0wiN4AzNzEzW}
 ```
