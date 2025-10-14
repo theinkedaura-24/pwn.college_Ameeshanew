@@ -5,7 +5,8 @@ I need to use it to change the owner of /flag to my user, hacker, which will the
 ## My solve
 **Flag:** `pwn.college{Q0jSdHvgLoa5NPsBPNb1LwZDKy3.QXxEjN0wiN4AzNzEzW}`
 
-```hacker@permissions~changing-file-ownership:~$ chown hacker /flag
+```
+hacker@permissions~changing-file-ownership:~$ chown hacker /flag
 hacker@permissions~changing-file-ownership:~$ cat /flag
 pwn.college{Q0jSdHvgLoa5NPsBPNb1LwZDKy3.QXxEjN0wiN4AzNzEzW}
 ```
