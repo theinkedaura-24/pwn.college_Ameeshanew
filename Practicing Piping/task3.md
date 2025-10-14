@@ -4,7 +4,8 @@ type what the challenge asks
 ## My solve
 **Flag:** `pwn.college{A7dlFr2UCGBLmvgUYWgPa8m1qPd.QX3ATO0wiN4AzNzEzW}`
 
-```3.	hacker@piping~appending-output:~$ /challenge/run >> /home/hacker/the-flag
+```
+hacker@piping~appending-output:~$ /challenge/run >> /home/hacker/the-flag
 [INFO] WELCOME! This challenge makes the following asks of you:
 [INFO] - the challenge will check that output is redirected to a specific file path : /home/hacker/the-flag
 
