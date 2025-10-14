@@ -5,7 +5,8 @@ This challenge asks us to use the pipe operator (|) to send the output of /chall
 **Flag:** `pwn.college{0zo2EOqzxhV-lek2YcvghMAKcq0.QX5EDO0wiN4AzNzEzW}`
 
 
-```hacker@piping~grepping-live-output:~$ /challenge/run | grep pwn.college
+```
+hacker@piping~grepping-live-output:~$ /challenge/run | grep pwn.college
 [INFO] WELCOME! This challenge makes the following asks of you:
 [INFO] - the challenge checks for a specific process at the other end of stdout : grep
 [INFO] - the challenge will output a reward file if all the tests pass : /challenge/.data.txt
