@@ -5,7 +5,8 @@ This challenge asks us to provide an absolute path to a file in our home directo
 ## My solve
 **Flag:** `pwn.college{8GaDeG-iy1nNel_iWy8bo2V0ngD.QXzMDO0wiN4AzNzEzW}`
 
-```hacker@paths~home-sweet-home:~$ /challenge/run ~/a
+```
+hacker@paths~home-sweet-home:~$ /challenge/run ~/a
 Writing the file to /home/hacker/a!
 ... and reading it back to you:
 pwn.college{8GaDeG-iy1nNel_iWy8bo2V0ngD.QXzMDO0wiN4AzNzEzW}
