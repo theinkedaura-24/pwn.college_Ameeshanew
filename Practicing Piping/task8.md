@@ -5,7 +5,8 @@ This challenge asks us to search through a program's standard error stream by fi
 **Flag:** `pwn.college{4yC_XVVSYAvtv0NRWXPQZ9r7HSZ.QX1ATO0wiN4AzNzEzW}`
 
 
-```hacker@piping~grepping-errors:~$ /challenge/run 2>& 1 | grep pwn.college
+```
+hacker@piping~grepping-errors:~$ /challenge/run 2>& 1 | grep pwn.college
 [INFO] WELCOME! This challenge makes the following asks of you:
 [INFO] - the challenge checks for a specific process at the other end of stderr : grep
 [INFO] - the challenge will output a reward file if all the tests pass : /challenge/.data.txt
