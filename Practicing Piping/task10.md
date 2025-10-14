@@ -5,7 +5,8 @@ This challenge asks us to use the tee command to "spy" on the data flowing throu
 **Flag:** `pwn.college{0nezpG5qGSnV43WMuwKD1-bCbLt.QXxITO0wiN4AzNzEzW}`
 
 
-```hacker@piping~duplicating-piped-data-with-tee:~$ cat /challenge/pwn
+```
+hacker@piping~duplicating-piped-data-with-tee:~$ cat /challenge/pwn
 #!/opt/pwn.college/bash
 
 echo "Processing..." > /dev/tty
