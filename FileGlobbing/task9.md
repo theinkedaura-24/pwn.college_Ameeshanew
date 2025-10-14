@@ -5,7 +5,8 @@ This challenge asks us to use tab completion to find a specific file when multip
 ## My solve
 **Flag:** `pwn.college{QYBwJCPy0umjeat8sO9WGU52IE0.0lN0EzNxwiN4AzNzEzW}`
 
-```hacker@globbing~multiple-options-for-tab-completion:~$ cat /challenge/files/pwn
+```
+hacker@globbing~multiple-options-for-tab-completion:~$ cat /challenge/files/pwn
 pwn                    pwn-the-planet         pwncollege-flag        pwncollege-flyswatter  
 pwn-college            pwncollege-family      pwncollege-flamingo    pwncollege-hacking     
 hacker@globbing~multiple-options-for-tab-completion:~$ cat /challenge/files/pwncollege-flag
