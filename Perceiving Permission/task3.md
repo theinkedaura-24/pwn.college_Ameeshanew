@@ -6,7 +6,8 @@ Then, I will use that group name with the chgrp command on /flag to get the perm
 ## My solve
 **Flag:** `pwn.college{4AqJKqGqlI14r7_NaHdXBwTwl3A.QXycjM1wiN4AzNzEzW}`
 
-```hacker@permissions~fun-with-groups-names:~$ id
+```
+hacker@permissions~fun-with-groups-names:~$ id
 uid=1000(hacker) gid=1000(grp29441) groups=1000(grp29441)
 hacker@permissions~fun-with-groups-names:~$ chgrp grp29441 /flag
 hacker@permissions~fun-with-groups-names:~$ cat /flag
