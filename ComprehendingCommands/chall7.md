@@ -5,7 +5,8 @@ The challenge asks us to create two files: /tmp/pwn and /tmp/college using the t
 **Flag:** `pwn.college{c86Jg7t_9p_PqGPP3BKSUIAtGNx.QXwMDO0wiN4AzNzEzW}`
 
 
-```hacker@commands~touching-files:~$ touch /tmp/pwn
+```
+hacker@commands~touching-files:~$ touch /tmp/pwn
 hacker@commands~touching-files:~$ touch /tmp/college
 hacker@commands~touching-files:~$ /challenge/run
 Success! Here is your flag:
