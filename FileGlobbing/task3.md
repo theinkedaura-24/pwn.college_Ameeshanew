@@ -4,7 +4,10 @@ This challenge asks you to use a single bracket glob [] to create one pattern th
 ## My solve
 **Flag:** `pwn.college{IfuvypN899SZkEEuu14R2gcdezP.QXzIDO0wiN4AzNzEzW}`
 
-```hacker@globbing~matching-with-:~$ cd /challenge/files
+```
+hacker@globbing~matching-with-:~$ cd /challenge/files
+hacker@globbing~matching-with-:/challenge/files$ /challenge/run file_[bash]
+You got it! Here is your flag!
 pwn.college{IfuvypN899SZkEEuu14R2gcdezP.QXzIDO0wiN4AzNzEzW}
 
 ```
