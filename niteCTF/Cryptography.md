@@ -198,7 +198,9 @@ nite{9ty%_0f_g4mbler5_qu17_b3f0re_th3y_mak3_1t_big}
 - (https://blog.skullsecurity.org/2012/everything-you-need-to-know-about-hash-length-extension-attacks)
 - (https://github.com/bwall/HashPump)
 - (https://en.wikipedia.org/wiki/Mersenne_Twister)
-- ](https://github.com/python/cpython/blob/main/Lib/random.py)
+- (https://github.com/python/cpython/blob/main/Lib/random.py)
+  
+***
 
 # stronk_rabin
 
@@ -367,6 +369,7 @@ nite{rabin_stronk?_no_r4bin_brok3n}
 - (https://www.cs.umd.edu/~jkatz/gradcrypto2/NOTES/lecture5.pdf)
 - (https://pycryptodome.readthedocs.io/)
 
+***
 # symmetric_starter
 
 just learnt how to encrypt my messages using a symmetric cipher. i hope no one can read it now.
