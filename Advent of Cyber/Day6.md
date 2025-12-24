@@ -1,4 +1,4 @@
-# Advent of Cyber 2025 Day 6 - Egg-xecutable
+# Egg-xecutable
 
 > Learn the principles of malware analysis using sandboxes, understand the difference between static and dynamic analysis, and use professional tools like PeStudio, Regshot, and ProcMon to investigate suspicious executables.
 
