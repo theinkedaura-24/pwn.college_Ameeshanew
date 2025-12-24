@@ -1,6 +1,6 @@
-# Advent of Cyber 2025 Day 3 - Did you SIEM?
+# Did you SIEM?
 
-> Learn how to ingest and interpret custom log data in Splunk, create custom field extractions, and use Search Processing Language (SPL) to conduct a security investigation into a ransomware attack.
+ Learn how to ingest and interpret custom log data in Splunk, create custom field extractions, and use Search Processing Language (SPL) to conduct a security investigation into a ransomware attack.
 
 ## Solution:
 
