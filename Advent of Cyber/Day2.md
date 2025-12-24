@@ -1,4 +1,4 @@
-# Advent of Cyber 2025 Day 2 - Merry Clickmas
+# Merry Clickmas
 
 Learn the types of phishing attacks and explore how red teams create fake login pages using the Social-Engineer Toolkit to send phishing emails and test employee security awareness.
 
