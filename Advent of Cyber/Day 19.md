@@ -13,7 +13,7 @@ Learn to identify and exploit weaknesses in ICS systems by investigating a compr
 - Started both AttackBox and target machine
 - Performed an Nmap scan to identify running services:
 
-```bash
+```
 nmap -sV -p 22,80,502 MACHINE_IP
 ```
 
@@ -42,7 +42,7 @@ PORT     STATE SERVICE VERSION
 
 - Created a reconnaissance script to read the current system state:
 
-```python
+```
 #!/usr/bin/env python3
 from pymodbus.client import ModbusTcpClient
 
